@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Basic styles for layout and typography */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header, section, footer {
+    padding: 20px;
+    margin: 10px;
+}
+
+header {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.hero {
+    text-align: center;
+    background-color: #e4e4e4;
+    padding: 40px 20px;
+}
+
+.hero img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 50%;
+}
+
+.biography, .gallery, .quotes, .timeline {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.gallery-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gallery-item img {
+    max-width: 100%;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+
+.timeline-item {
+    margin: 20px 0;
+    padding: 10px;
+    border-left: 3px solid #888;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+    </style>
+    <title>Example Tribute Page</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Person's Name</h1>
+        <p>A brief subtitle or tagline</p>
+    </header>
+
+    <section class="hero">
+        <img src="hero-image.jpg" alt="Person's Image">
+        <blockquote>"A memorable quote or introduction."</blockquote>
+    </section>
+
+    <section class="biography">
+        <h2>Biography</h2>
+        <p>Content about the person's life or the event's history.</p>
+        <!-- Add more subsections as needed -->
+    </section>
+
+    <section class="gallery">
+        <h2>Gallery</h2>
+        <div class="gallery-item">
+            <img src="image1.jpg" alt="Description">
+            <p>Caption or description.</p>
+        </div>
+        <!-- Add more gallery items as needed -->
+    </section>
+
+    <section class="quotes">
+        <h2>Quotes and Anecdotes</h2>
+        <blockquote>"A memorable quote."</blockquote>
+        <!-- Add more quotes or stories as needed -->
+    </section>
+
+    <section class="timeline">
+        <h2>Timeline</h2>
+        <div class="timeline-item">
+            <h3>Year</h3>
+            <p>Description of the event.</p>
+        </div>
+        <!-- Add more timeline items as needed -->
+    </section>
+
+    <footer>
+        <p>Additional links or resources.</p>
+        <p>Contact information.</p>
+        <p>Credits or acknowledgments.</p>
+    </footer>
+
+    <script>
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
+    </script>
+</body>
+</html>
+
+</body>
+</html>

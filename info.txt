@@ -1,0 +1,141 @@
+
+
+
+
+
+
+#------- Colors: -------#
+#6C3082 (Deep Violet)
+#5D2173 (Rich Magenta)
+#4E1264 (Dark Orchid)
+#7B3F91 (Plum Purple)
+
+<> code </>
+:root {
+    --primary: #6C3082; /* Deep Violet */
+    --secondary: #4E1264; /* Dark Orchid */
+    --accent: #7B3F91; /* Plum Purple */
+    --background: #5D2173; /* Rich Magenta */
+}
+
+#------- Header -------#
+Name: Cid Kagenou (formerly Minoru Kageno)
+**Reincarnation**: After a premature death, Cid finds himself reborn into a world of swords and sorcery
+
+#------- Hero Section -------#
+
+*image*
+- Cid Kagenou, formerly known as Minoru Kageno, met an untimely end in his previous life. But fear not! Fate had other plans. He reincarnated into a world of swords, sorcery, and secrets.
+
+
+#------- Biography -------#
+
+   - As the second child of a noble family, Cid embarked on a new journey—one that would lead him far beyond the mundane existence he once knew¹.
+    - Choosing the moniker "Shadow," Cid embraced his inner chuunibyou (that delightful mix of adolescent delusions and grandeur). Little did he know that his creative scenarios—imagining himself as an enigmatic shadow broker—were eerily close to the truth.
+   - In this new life, he leads the clandestine organization known as **Shadow Garden**. Their mission? Well, let's just say it involves shadows, secrets, and a dash of intrigue.
+   - Cid's unfulfilled fantasies find an outlet here, where he orchestrates covert operations and plots from the shadows¹.
+
+#------- Gallery -------#
+
+*images*
+
+#------- Achievements -------#
+
+**Swordsmanship**: Cid wields a blade with finesse, slicing through challenges like a seasoned warrior.
+   - **Martial Arts**: His combat skills extend beyond swordplay, making him a formidable opponent.
+   - **Magic**: Cid dabbles in magic, including a unique form called **Nuclear Magic**. Yes, you read that right—nuclear. 🌟
+   - **Normie Techniques**: These are his everyday tricks, like a magician pulling rabbits out of hats. Well, maybe not rabbits, but you get the idea.
+   - **Serial Killer Days**: To eliminate corrupt nobles known as the Thirteen Night Swords, Cid donned a full-body clown suit, leaving playing cards behind. His ruthless efficiency baffled authorities, and in just a few days, he dismantled the Thirteen Night Swords¹.
+
+#------- Noteworthy Events -------#
+
+**Bushin Festival Disaster**: After an incident during the Bushin Festival, Cid's Shadow persona earned the nickname "The Warlock/Demon Shadow." Why? Because he unleashed a massive magic spell that covered the entire capital, as if the gates of hell had swung open. Talk about making an entrance! 🎩🔮
+   - **Train Commutes**: In his current life, Cid casually hops on trains without his trusty skeletal companion, Skel Etal. It's all part of maintaining his secret identity, you see⁴.
+
+
+#------- Footer -------#
+
+Made by codeJ
+
+Credits
+ Cid Kagenou | The Eminence in Shadow Wiki | Fandom. https://the-eminence-in-shadow.fandom.com/wiki/Cid_Kagenou.
+(2) Cid Kagenou - Chronology | The Eminence in Shadow Wiki | Fandom. https://the-eminence-in-shadow.fandom.com/wiki/Cid_Kagenou/Chronology.
+(3) Kage no Jitsuryokusha ni Naritakute! (The Eminence in Shadow .... https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute?ref=dtf.ru.
+(4) The Eminence In Shadow - Cid Kagenou - TV Tropes. https://tvtropes.org/pmwiki/pmwiki.php/Characters/TheEminenceInShadowCidKagenou.
+
+
+Certainly! Let's delve into the enigmatic world of **Cid Kagenou**, the intriguing protagonist of *The Eminence in Shadow* series. 🌟
+
+1. **Background and Reincarnation**:
+   - Cid Kagenou, formerly known as Minoru Kageno, met an untimely end in his previous life. But fear not! Fate had other plans. He reincarnated into a world of swords, sorcery, and secrets.
+   - As the second child of a noble family, Cid embarked on a new journey—one that would lead him far beyond the mundane existence he once knew¹.
+
+2. **Chunibyo Fantasies and Shadow Garden**:
+   - Choosing the moniker "Shadow," Cid embraced his inner chuunibyou (that delightful mix of adolescent delusions and grandeur). Little did he know that his creative scenarios—imagining himself as an enigmatic shadow broker—were eerily close to the truth.
+   - In this new life, he leads the clandestine organization known as **Shadow Garden**. Their mission? Well, let's just say it involves shadows, secrets, and a dash of intrigue.
+   - Cid's unfulfilled fantasies find an outlet here, where he orchestrates covert operations and plots from the shadows¹.
+
+3. **Powers and Achievements**:
+   - **Swordsmanship**: Cid wields a blade with finesse, slicing through challenges like a seasoned warrior.
+   - **Martial Arts**: His combat skills extend beyond swordplay, making him a formidable opponent.
+   - **Magic**: Cid dabbles in magic, including a unique form called **Nuclear Magic**. Yes, you read that right—nuclear. 🌟
+   - **Normie Techniques**: These are his everyday tricks, like a magician pulling rabbits out of hats. Well, maybe not rabbits, but you get the idea.
+   - **Serial Killer Days**: To eliminate corrupt nobles known as the Thirteen Night Swords, Cid donned a full-body clown suit, leaving playing cards behind. His ruthless efficiency baffled authorities, and in just a few days, he dismantled the Thirteen Night Swords¹.
+
+4. **Noteworthy Events**:
+   - **Bushin Festival Disaster**: After an incident during the Bushin Festival, Cid's Shadow persona earned the nickname "The Warlock/Demon Shadow." Why? Because he unleashed a massive magic spell that covered the entire capital, as if the gates of hell had swung open. Talk about making an entrance! 🎩🔮
+   - **Train Commutes**: In his current life, Cid casually hops on trains without his trusty skeletal companion, Skel Etal. It's all part of maintaining his secret identity, you see⁴.
+
+5. **Anime Adaptation**:
+   - The anime adaptation of *The Eminence in Shadow* covers volumes 1 and 2 of the light novel series. It aired from January to April 2023³.
+
+So there you have it—a glimpse into the shadowy life of Cid Kagenou. Feel free to weave your visual timeline, capturing the highs, lows, and magical mishaps of our chuuni-turned-shadow-master! 🗓️✨
+
+If you need more details or have any other questions, just give me a nudge—I'm here to help! 😊📜
+
+Source: Conversation with Copilot, 7/13/2024
+(1) Cid Kagenou | The Eminence in Shadow Wiki | Fandom. https://the-eminence-in-shadow.fandom.com/wiki/Cid_Kagenou.
+(2) Cid Kagenou - Chronology | The Eminence in Shadow Wiki | Fandom. https://the-eminence-in-shadow.fandom.com/wiki/Cid_Kagenou/Chronology.
+(3) Kage no Jitsuryokusha ni Naritakute! (The Eminence in Shadow .... https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute?ref=dtf.ru.
+(4) The Eminence In Shadow - Cid Kagenou - TV Tropes. https://tvtropes.org/pmwiki/pmwiki.php/Characters/TheEminenceInShadowCidKagenou.
+
+
+
+Certainly! Let's delve into the enigmatic world of **Cid Kagenou**, the intriguing protagonist of *The Eminence in Shadow* series. 🌟
+
+### 1. **Background and Reincarnation**:
+- **Name**: Cid Kagenou (formerly Minoru Kageno)
+- **Reincarnation**: After a premature death, Cid finds himself reborn into a world of swords and sorcery.
+- **Passion**: Inspired by his past life, he aspires to become an "Eminence in the Shadow."
+- **Training**: As a child, he studied relentlessly to expand his knowledge and mastered various martial arts.
+- **Chunibyo Fantasies**: Cid lives out unfulfilled chuunibyou fantasies, imagining himself as an enigmatic shadow broker—little does he know that these scenarios are eerily close to the truth².
+
+### 2. **Shadow Garden and Leadership**:
+- **Alias**: Choosing the moniker "Shadow," Cid leads the secret organization known as **Shadow Garden**.
+- **Members**: He recruits six others who suffer from Demon Possession: Alpha, Beta, Gamma, Delta, Epsilon, and Zeta.
+- **Mission**: Their covert operations involve shadows, secrets, and intrigue.
+- **Notable Feats**: Cid dismantles the corrupt Thirteen Night Swords in just a few days¹.
+
+### 3. **Powers and Achievements**:
+- **Swordsmanship**: Cid wields a blade with finesse, slicing through challenges like a seasoned warrior.
+- **Martial Arts**: His combat skills extend beyond swordplay, making him a formidable opponent.
+- **Magic**: Cid dabbles in magic, including a unique form called **Nuclear Magic**. Yes, you read that right—nuclear. 🌟
+- **Normie Techniques**: These are his everyday tricks, like a magician pulling rabbits out of hats. Well, maybe not rabbits, but you get the idea.
+- **Serial Killer Days**: To eliminate corrupt nobles known as the Thirteen Night Swords, Cid donned a full-body clown suit, leaving playing cards behind. His ruthless efficiency baffled authorities¹.
+
+### 4. **Noteworthy Events**:
+- **Bushin Festival Disaster**: Cid's massive magic spell during the Bushin Festival covered the entire capital, earning him the nickname "The Warlock/Demon Shadow."
+- **Train Commutes**: In his current life, Cid casually hops on trains without his trusty skeletal companion, Skel Etal, all part of maintaining his secret identity⁴.
+
+### 5. **Anime Adaptation**:
+- The anime adaptation of *The Eminence in Shadow* covers volumes 1 and 2 of the light novel series. It aired from January to April 2023³.
+
+Feel free to weave your visual timeline, capturing the highs, lows, and magical mishaps of our chuuni-turned-shadow-master! 🗓️✨ If you need more details or have any other questions, just give me a nudge—I'm here to help! 😊📜
+
+Source: Conversation with Copilot, 7/13/2024
+(1) Cid Kagenou | The Eminence in Shadow Wiki | Fandom. https://the-eminence-in-shadow.fandom.com/wiki/Cid_Kagenou.
+(2) Cid Kagenou - Chronology | The Eminence in Shadow Wiki | Fandom. https://the-eminence-in-shadow.fandom.com/wiki/Cid_Kagenou/Chronology.
+(3) Cid Kagenou Wiki, Age, Powers, Love Interest - Anime Mentor. https://animementor.com/the-eminence-in-shadow/cid-kagenou/.
+(4) Shadow | Anime Last Stand Wiki | Fandom. https://alsroblox.fandom.com/wiki/Shadow.
+(5) The Eminence in Shadow: How Strong Is Cid Kagenou?. https://epicstream.com/article/cid-kagenou-powers.
+(6) The Eminence In Shadow: Every Cid Ability, Explained - CBR. https://www.cbr.com/the-eminence-in-shadow-cids-abilities-explained/.
