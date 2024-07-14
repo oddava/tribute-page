@@ -463,3 +463,10 @@ section h2 {
         padding: 0 13px;
     }
 }
+
+@media (max-width: 480px) {
+    .img-wrapper span {
+        width: 300px;
+        height: 300px;
+    }
+}
