@@ -466,7 +466,14 @@ section h2 {
 
 @media (max-width: 480px) {
     .img-wrapper span {
-        width: 250px;
-        height: 250px;
+        width: 250px !important;
+        height: 250px !important;
+    }
+
+    ul.mobile__nav__links li a { 
+        font-size: 2.5rem;
+    }
+    .mobile-navbar {
+        width: 100%;
     }
 }
