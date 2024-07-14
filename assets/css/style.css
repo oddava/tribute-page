@@ -446,7 +446,7 @@ section h2 {
         text-decoration: none;
         color: var(--text-color);
         opacity: .6;
-        font-size: var(--x-large-fs);
+        font-size: 3.5rem;
         transition: all .3s;
     }
 
@@ -468,10 +468,6 @@ section h2 {
     .img-wrapper span {
         width: 250px !important;
         height: 250px !important;
-    }
-
-    ul.mobile__nav__links li a { 
-        font-size: 2.5rem;
     }
     .mobile-navbar {
         width: 100%;
